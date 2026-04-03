@@ -16,7 +16,7 @@ timezone: Asia/Amman
 
 title: Boot2Root # the main title
 
-tagline: Cybersecurity Specialist # it will display as the subtitle
+tagline: A blog by Zaid Al-Sahouri # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
   A personal cybersecurity blog by Boot2Root, dedicated to detailed CTF write-ups, ethical hacking tutorials, and InfoSec deep dives.
