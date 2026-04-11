@@ -1,6 +1,6 @@
 ---
 title: PicoCTF - Crack the Gate 2 Write-up
-date: 2026-04-11 15:00:00 +0300
+date: 2026-04-11 01:00:00 +0300
 categories: [CTF Writeups, PicoCTF]
 tags: [web-exploitation, burp-suite, brute-force, picoctf]
 image:
