@@ -3,6 +3,9 @@ title: PicoCTF - Crack the Gate 2 Write-up
 date: 2026-04-11 15:00:00 +0300
 categories: [CTF Writeups, PicoCTF]
 tags: [web-exploitation, burp-suite, brute-force, picoctf]
+image:
+  path: /assets/img/posts/Crack_the_Gate_2/cover.png
+  alt: PicoCTF Crack the Gate 2 Cover Image
 ---
 
 This is a medium-difficulty web exploitation challenge from PicoCTF. 
